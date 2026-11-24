@@ -1,8 +1,8 @@
 # Hi, I'm Martin
 
-Founder and builder from **Prague**, Czech Republic. I'm building a **startup in quantitative mathematics and progressive learning**, and I make small, polished **macOS apps** on the side.
+Founder and builder from **Prague**, Czech Republic. I build **data-driven tools for small businesses**, and I make small, polished **macOS apps** on the side.
 
-- **Building:** a startup in quantitative mathematics and progressive learning
+- **Building:** data-driven tools that help small businesses see where they're heading
 - **Side project:** [Sticky](https://github.com/martinpazdera321-cpu/Sticky), a macOS notch app with paper sticky notes that stay on your screen
 - **Programming:** Swift, SwiftUI, AppKit, Python, C++, Java
 - **Background:** project and site management (led teams of up to 19), sales
